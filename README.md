@@ -1,4 +1,5 @@
-# Scientific-Calculator
+# Calculator
 ***
- Coming Soon...... 
+ Dark Mode
 ***
+ Light Mode
